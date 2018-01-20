@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="xunco1"
+  id="myeclipse.1516460963934"
+  context-root="/xunco1"
+  j2ee-spec="5.0"
+  archive="xunco1.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
